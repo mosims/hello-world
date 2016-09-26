@@ -1,2 +1,22 @@
 # hello-world
 My first repository
+Eon log files:
+      atlassian-jira.log
+      atlassian-jira.log.1
+     atlassian-jira.log.3
+     atlassian-jira.log.4
+     atlassian-jira-http-access.log
+     atlassian-jira-http-access.log.1
+     atlassian-jira-slow-queries.log
+     atlassian-jira-soap-access.log
+     eon.log
+     eon-attachment-searcher.log
+     eon-webmail-prod.log
+     fdaaa.log
+     wrapper.log
+ wrapper.log.1
+ wrapper.log.2
+ wrapper.log.3
+ wrapper.log.4
+ wrapper.log.5
+​
